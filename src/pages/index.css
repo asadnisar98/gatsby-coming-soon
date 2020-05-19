@@ -1,0 +1,35 @@
+.custom-form input {
+height: 66px;
+background-color: #f8f8f8;
+border: none;
+padding-left: 30px;
+padding-right: 70px;
+}
+.custom-form button {
+  height: 100%;
+background-color: #000000;
+color: #ffffff;
+font-size: 20px;
+border: none;
+padding: 17px;
+}
+.social-icon {
+  margin-top: 30px;
+}
+.social-icon ul {
+  padding: 0px;
+list-style-type: none;
+max-width: 180px;
+margin: 0 auto;
+}
+.social-icon li {
+  color: #000000;
+font-weight: bold;
+margin-right: 20px;
+}
+.title {
+  margin-bottom: 10px;
+}
+footer {
+  text-align: center;
+}
