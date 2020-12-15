@@ -92,7 +92,7 @@ const IndexPage = () => (
 </Col>
 <Col lg="6" md="6">
 <RightContent>
-<h1>AsadNisar.Com</h1>
+<h1>Brass Coming Soon</h1>
 <ComingTitle>
 
 <ComingText>Coming Soon</ComingText>
