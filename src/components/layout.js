@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
         <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>, Develoepd By <a target="_blank" href="https://jamstackagency.com/">jamstackagency.com</a>
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
       </div>
     </>
